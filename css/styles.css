@@ -30,6 +30,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  text-decoration: none;
   }
 .logo.white {
   color: var(--title-text-white);
@@ -37,6 +38,7 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
  /* site nav */
@@ -47,6 +49,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
@@ -64,6 +67,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .address .link:hover,
 .address .link:focus {
@@ -130,6 +134,7 @@ line-height: 1.18;
 .address-footer .link {
   color: var(--address-text-color);
   font-style: normal;
+  text-decoration: none;
 }
 .footer .subscription {
   color: var(--title-text-white);
@@ -152,6 +157,7 @@ text-align: center;
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.06em;
+  text-decoration: none;
 }
 /*---------------------------------------------------*/
 
