@@ -3,7 +3,7 @@
     --title-text-color: #212121;
     --title-text-white: #FFFFFF;
     --accent-color: #2196F3;
-    --background-color: rgb(134, 128, 128);
+    --background-color: rgb(184, 179, 179);
     --background-accent: #F5F4FA;
     --address-text-color: rgba(255, 255, 255, 0.6);
   }
@@ -117,10 +117,9 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.18;
 }
-.section .team-list .team-profession {
-font-size: 30px;
+.team-profession {
+font-size: 16px;
 line-height: 1.18;
-text-align: center;
 }
 
 /* Footer */
