@@ -110,7 +110,7 @@ text-transform: uppercase;
 /* services */
 
 .services .services-title {
-  color: var(--background-text-white);
+  color: var(--title-text-color);
 font-size: 14px;
 line-height: 1.14;
 text-transform: uppercase
@@ -178,9 +178,7 @@ font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
 }
-.portfolio-list {
-  color: var(--background-text-white);
-}
+
 .portfolio-desc {
   color: var(--primary-text-color);
   font-size: 16px;
@@ -189,6 +187,7 @@ letter-spacing: 0.06em;
 .portfolio-excerpt {
   font-size: 18px;
   line-height: 1.5;
+  color: var(--title-text-color);
 }
 
 /* radio button */
